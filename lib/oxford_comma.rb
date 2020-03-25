@@ -4,4 +4,4 @@ def oxford_comma(array)
   
   end
 
-array.to_sentence(last_word_connector:)
+array.to_sentence(words connnector: ", ", last_word_connector: " and ")
